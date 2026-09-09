@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Dhizar Technology" width="120" />
+<img src="./dark_black.png" alt="Dhizar Technology" width="120" />
 
 # Dhizar Technology
 
